@@ -1,0 +1,6 @@
+@OrderAggregate.API_HostAddress = http://localhost:5048
+
+GET {{OrderAggregate.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

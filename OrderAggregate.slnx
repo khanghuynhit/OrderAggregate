@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="OrderAggregate.API/OrderAggregate.API.csproj" />
+  <Project Path="OrderAggregate.Application/OrderAggregate.Application.csproj" />
+  <Project Path="OrderAggregate.Domain/OrderAggregate.Domain.csproj" />
+  <Project Path="OrderAggregate.Infrastructure/OrderAggregate.Infrastructure.csproj" />
+  <Project Path="OrderAggregate.Tests/OrderAggregate.Tests.csproj" />
+</Solution>
